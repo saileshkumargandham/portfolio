@@ -218,7 +218,7 @@ img {
   width: 260px;
 }
 .home__blob {
-  fill: var(--first-color);
+  fill: black;
 }
 .home__blob-img {
   width: 360px;
